@@ -5,13 +5,13 @@ Belonging Index Calculator
 Calculate the belonging index of a set of allelic profiles directly from the 
 profiles or from a distance matrix, in combination with a classification file.
 
-###Input files (tab delimited):
+### Input files (tab delimited):
 
     - distance matrix
     - profile file
     - classification file
    
-###Output files:
+### Output files:
 
     - html plot with average of Bi per classification and plot with global Bi
     
