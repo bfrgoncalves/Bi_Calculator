@@ -16,11 +16,11 @@ profiles or from a distance matrix, in combination with a classification file.
     - html plot with average of Bi per classification and plot with global Bi
     
 
-Test:
+### Test:
     
     python3 app.py -o data -p data/wg_p.tab -c data/class_wg.txt
     
-Arguments:
+### Arguments:
 
    ```
   -h, --help            show this help message and exit
